@@ -55,7 +55,7 @@ WORLD_NUMBER_DIV_CLASS      = 'world-number'
 
 START_TIMER_ID = 'start-timer'
 
-SECONDS_UNTIL_ORE_RESPAWN = 12 * 60
+SECONDS_UNTIL_ORE_RESPAWN = 6 * 60
 
 # Map where the key is the world number and the value is
 # the array of ore numbers it is currently tracking
